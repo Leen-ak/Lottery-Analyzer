@@ -9,7 +9,7 @@ This Java program analyzes lottery ticket data to determine winners and distribu
    
 **Requirements**
 1. Java 8 or higher
-2. Input CSV file with winning numbers and ticket data (which is in the testFile)
+2. Input CSV file with winning numbers and ticket data (lottacash.csv)
    
 **Usage**
 1. Run the program.
